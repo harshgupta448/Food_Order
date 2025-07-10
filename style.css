@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #ffed95;
+}
+
+form {
+  display: inline-block;
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 300px;
+}
+
+input, select, button {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  width: 80%;
+}
+
+#confirmation {
+  margin-top: 2rem;
+  color: green;
+  font-weight: bold;
+}
